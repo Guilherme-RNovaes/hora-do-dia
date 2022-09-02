@@ -19,9 +19,9 @@ Esta é uma solução para o [Exercício 14 proposto para resolução](https://w
 
 ### Screenshot
 
-![](src/design/desktop-design.jpg)
+![](src/design/desktop-design.jpeg)
 
-![](src/design/mobile-design.jpg)
+![](src/design/mobile-design.jpeg)
 
 ### Links
 
